@@ -21,7 +21,7 @@ This tool turns "which piece should we push next" from a debate into a number.
 - **Breakeven analysis** — computes the true breakeven duo market value after entry fees and the 15% marketplace tax, accounting for the full retry structure (pri failures cost materials with no refund; a duo failure sends you back to square one, fees and all).
 - **Expected Value (EV) & Return on Investment (ROI)** — every candidate accessory is scored on expected profit *and* expected return per unit of capital at risk, so you're comparing opportunities on equal footing, not just raw payout size.
 - **Priority ranking** — a live-sortable leaderboard of tracked accessories ranked by ROI, so you always know what the best use of your next stack of materials is.
-- **Risk simulator** — a Monte Carlo model that runs thousands of simulated "trading days" against your actual daily budget, surfacing the realistic spread of outcomes (median day, 5th/95th percentile, chance of a net-negative day) instead of just the theoretical average. This is the difference between "this bet is +EV" and "this bet is +EV *and* survivable at my bankroll."
+- **Risk simulator** — a Monte Carlo model that runs thousands of simulated "trading days" against your actual daily budget, surfacing the realistic spread of outcomes (median day, 5th/95th percentile, chance of a net-negative day) instead of just the theoretical average. This is the difference between "this bet is +EV" and "this bet is +EV *and* survivable at my budget."
 
 <img width="906" height="917" alt="image" src="https://github.com/user-attachments/assets/fe6a06fe-e853-4bc0-ab20-4abe0ddf2632" />
 
